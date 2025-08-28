@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="imags/eficientiza-logo.png" alt="Logo Solar Drive"/>
+  <img src="imags/eficientiza-logo.png" alt="Logo Eficientiza"/>
 </div>
 
 ---
